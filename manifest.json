@@ -1,7 +1,7 @@
 {
     "name": "(D)-ROTS Map Viewer",
     "short_name": "ROTSMap",
-    "start_url": "/index.html",
+    "start_url": "/rots-map-viewer",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4A90E2",
